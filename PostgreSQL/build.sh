@@ -1,0 +1,1 @@
+# docker build -t 'postgresql:20220306-3' .
